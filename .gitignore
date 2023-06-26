@@ -1,6 +1,6 @@
-build/
-/dist/
-/build-*/
+build/  
+/dist/  
+/build-*/  
 /build_*/
 /release-*/
 .idea/
